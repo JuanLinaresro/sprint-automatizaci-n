@@ -1,0 +1,41 @@
+# =====================
+# Archivos y carpetas de Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+ENV/
+VENV/
+
+# Archivos de configuración o temporales
+*.log
+*.sqlite3
+*.db
+*.tmp
+*.swp
+*.bak
+
+# Archivos Jupyter (opcional)
+.ipynb_checkpoints
+
+# Archivos de ejecución de Bash
+*.out
+*.exe
+
+# Configuración del sistema/IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Archivos sensibles (si los usas)
+.env.local
+.env.secret
+
