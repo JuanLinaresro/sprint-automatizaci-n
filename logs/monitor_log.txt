@@ -1,0 +1,11 @@
+[2025-10-16 08:45:16] CPU: 0.5% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:46:54] CPU: 0.0% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 206
+[2025-10-16 08:47:00] CPU: 1.0% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 206
+[2025-10-16 08:47:06] CPU: 0.0% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:12] CPU: 12.2% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:18] CPU: 10.7% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:24] CPU: 3.6% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:30] CPU: 2.6% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:36] CPU: 7.7% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:42] CPU: 6.1% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207
+[2025-10-16 08:47:48] CPU: 0.5% | RAM usada: 1.23 GB / 2.91 GB (1.68 GB libre) | Procesos activos: 207

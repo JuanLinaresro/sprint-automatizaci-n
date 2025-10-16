@@ -1,18 +1,24 @@
-# sprint-automatizaci-n
-Primer repositorio sprint
-# 🧾 Proyecto: Reporte del Sistema
+# Sprint: Monitorización con Python
 
-## 📌 Descripción
+## Qué contiene
+- `python/monitor.py` — Script que muestra y registra CPU, RAM y número de procesos.
+- `logs/monitor_log.txt` — Archivo de logs (se crea automáticamente).
 
-Este proyecto contiene un script en Bash que genera un **reporte automático del sistema Linux**.  
-El script se encuentra en `scripts/system_info.sh` y produce un informe con datos reales de:
+## Requisitos
+- Python 3
+- psutil
 
-- Usuarios conectados (`who`)
-- Uso de CPU y memoria (`top`, `free -h`)
-- Espacio en disco (`df -h`)
-- Últimos errores del sistema (`dmesg | tail -10`)
+## Instalación rápida (recomendada: entorno virtual)
+python3 -m venv venv
+source venv/bin/activate
+pip install psutil
 
-El resultado se guarda automáticamente en:
+## Ejecutar
+source venv/bin/activate   # si usas venv
+python python/monitor.py
 
+## Nota
+Responde `s` si quieres 10 lecturas automáticas cada 5 segundos.
 
-
+## Capturas
+(Adjunta aquí capturas de la terminal y del archivo logs/monitor_log.txt)
